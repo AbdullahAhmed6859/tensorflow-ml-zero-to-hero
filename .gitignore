@@ -18,3 +18,7 @@ dist/
 # System files
 .DS_Store
 Thumbs.db
+
+ml-zero-to-hero/lab-5/test_images
+ml-zero-to-hero/lab-5/tmp
+ml-zero-to-hero/lab-5/rps.keras
